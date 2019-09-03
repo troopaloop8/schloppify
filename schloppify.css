@@ -1,0 +1,34 @@
+body {
+    background: rgba(241, 197, 116, 0.761) ;
+    text-align: center;
+}
+
+.conetent-boi {
+    margin: 5% 50%;
+}
+
+.header-boi {
+    margin-top: 200px;
+    font-size: 7em;
+    padding-bottom: 5%;
+    font-weight: 200;
+
+}
+
+.text-box-boi {
+    width: 400px;
+
+}
+
+.instructions-boi {
+    font-weight: 300;
+    font-size: 1.7em;
+}
+
+.label-boi {
+    font-weight: 300;
+}
+
+.button-boi {
+    font-size: 0.9em;
+}
