@@ -101,7 +101,7 @@ function onSchlopp() {
 
     console.log(schloppyDoggo);
    
-    txtOutput.value = schloppyDoggo + " is a faggot"
+    txtOutput.value = schloppyDoggo
 
 };
 
